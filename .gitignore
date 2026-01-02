@@ -1,0 +1,34 @@
+# Release packages
+/releases/
+
+# Development/packaging scripts
+package.ps1
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.cursor/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# WoW SavedVariables (if testing locally)
+*.lua.bak
+
+# BigWigsMods packager output
+.release/
+.pkgmeta
+
+# Misc
+*.log
+*.zip

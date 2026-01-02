@@ -1,0 +1,15 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+    <!-- Base locale (English) - must load first -->
+    <Script file="enUS.lua"/>
+    
+    <!-- Additional locales -->
+    <Script file="deDE.lua"/>
+    <Script file="esES.lua"/>
+    <Script file="frFR.lua"/>
+    <Script file="koKR.lua"/>
+    <Script file="ptBR.lua"/>
+    <Script file="ruRU.lua"/>
+    <Script file="zhCN.lua"/>
+    <Script file="zhTW.lua"/>
+</Ui>
+

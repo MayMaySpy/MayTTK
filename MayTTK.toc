@@ -1,0 +1,23 @@
+## Interface: 112007, 120001
+## Title: MayTTK
+## Notes: Time To Kill calculator with adaptive DPS smoothing
+## Author: May
+## Version: 1.0.0
+## SavedVariables: MayTTKDB
+## IconTexture: Interface\Icons\ability_warrior_bloodbath
+## X-Wago-ID: qKQxY16x
+## AddonCompartmentFunc: MayTTK_OnAddonCompartmentClick
+## AddonCompartmentFuncOnEnter: MayTTK_OnAddonCompartmentEnter
+## AddonCompartmentFuncOnLeave: MayTTK_OnAddonCompartmentLeave
+
+# Libraries
+embeds.xml
+
+# Load Order
+MayTTK_Compat.lua
+Locales\Locales.xml
+Config.lua
+Calculator.lua
+Display.lua
+Options.lua
+Core.lua
